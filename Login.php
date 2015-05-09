@@ -8,10 +8,10 @@ echo <<<_END
 	<body>
 		<form method = "post" action = "Confirm.php">	
 			<div id = "CajaLogin">
-				Usuario:  
+				User:  
 				<input type = "text" name = "name" />
 				<br/> <br/>
-				Contraseña:  
+				Password:  
 				<input type = "text" name = "pass" />
 				</br> <br/>
 				<center><input type = "Submit" value = "Login" /></center>
