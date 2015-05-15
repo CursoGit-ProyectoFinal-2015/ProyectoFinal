@@ -2,6 +2,9 @@ branches:
 language: php
 complier:
   - php
+ php:
+  - 5.4
+  - 5.5
 before_install:
   - sudo apt-get update
 
