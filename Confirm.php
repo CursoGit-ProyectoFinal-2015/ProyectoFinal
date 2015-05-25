@@ -23,7 +23,7 @@ else {
 	$row = array();
 	$res = $result->fetchArray(SQLITE3_ASSOC);
 	if ($res['Nombre'] == NULL){
-		echo "USUARIO INCORRECTO";
+		echo "USUARIO INCORRECTO!";
 	}
 	else {
 		$row['0']['Nombre'] = $res['Nombre'];
