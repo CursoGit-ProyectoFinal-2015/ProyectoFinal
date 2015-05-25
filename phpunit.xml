@@ -4,7 +4,7 @@
 
          cacheTokens="false"
          colors="false"
-         convertErrorsToExceptions="tru"
+         convertErrorsToExceptions="true"
          convertNoticesToExceptions="true"
          convertWarningsToExceptions="true"
          forceCoversAnnotation="false"
