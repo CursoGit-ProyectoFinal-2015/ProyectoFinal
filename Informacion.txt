@@ -1,2 +1,6 @@
+ HEAD
 Información útil
 Archivo para añadir información de utilidad para el proyecto.
+=======
+InformaciÃ³n Ãºtil
+8bd2c2ba1de2ec9fd8509d03a3589e2a4fb43dd8
