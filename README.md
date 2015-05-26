@@ -11,3 +11,4 @@ https://github.com/CursoGit-ProyectoFinal-2015/ProyectoFinal/commit/eed5295fa89c
 * Nueva release
 https://github.com/CursoGit-ProyectoFinal-2015/ProyectoFinal/releases/tag/V2.0.0
 * Añadido archivo de Información importante
+* Resuelto conflicto con archivo de Información importante
