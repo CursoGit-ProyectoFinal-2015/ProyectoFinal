@@ -1,3 +1,2 @@
 Información útil
-Modificado en local
-Conflicto local
+Archivo para añadir información de utilidad para el proyecto.
